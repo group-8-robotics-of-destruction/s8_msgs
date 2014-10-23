@@ -8,6 +8,7 @@ add_message_files(
   FILES
   DistPose.msg
   IRDistances.msg
+  Orientation.msg
 )
 
 generate_messages(
