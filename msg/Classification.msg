@@ -1,2 +1,2 @@
-Int8 Type
-String Name
+int16 type
+string name
