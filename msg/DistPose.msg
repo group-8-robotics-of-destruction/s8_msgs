@@ -1,2 +1,2 @@
-int16 dist
-int16 pose
+float dist
+float pose
