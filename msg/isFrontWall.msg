@@ -1,0 +1,2 @@
+bool isFrontWall
+float32 distToFrontWall
